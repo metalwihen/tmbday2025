@@ -1,0 +1,268 @@
+{
+    "frames": [
+        {
+            "filename": "cat_sleep_0",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.75
+            }
+        },
+        {
+            "filename": "cat_sleep_1",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 18,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.75
+            }
+        },
+        {
+            "filename": "cat_sleep_2",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 0,
+                "y": 18
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.75
+            }
+        },
+        {
+            "filename": "cat_sleep_3",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 18,
+                "y": 18
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.75
+            }
+        },
+        {
+            "filename": "cat_walk_down_0",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 36,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.75
+            }
+        },
+        {
+            "filename": "cat_walk_down_1",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 36,
+                "y": 18
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.75
+            }
+        },
+        {
+            "filename": "cat_walk_down_2",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 0,
+                "y": 36
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.75
+            }
+        },
+        {
+            "filename": "cat_walk_down_3",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 18,
+                "y": 36
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.75
+            }
+        },
+        {
+            "filename": "cat_walk_left_0",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 36,
+                "y": 36
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.75
+            }
+        },
+        {
+            "filename": "cat_walk_left_1",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 54,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.75
+            }
+        },
+        {
+            "filename": "cat_walk_left_2",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 54,
+                "y": 18
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.75
+            }
+        },
+        {
+            "filename": "cat_walk_left_3",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 54,
+                "y": 36
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.75
+            }
+        },
+        {
+            "filename": "cat_walk_right_0",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 0,
+                "y": 54
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.75
+            }
+        },
+        {
+            "filename": "cat_walk_right_1",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 18,
+                "y": 54
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.75
+            }
+        },
+        {
+            "filename": "cat_walk_right_2",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 36,
+                "y": 54
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.75
+            }
+        },
+        {
+            "filename": "cat_walk_right_3",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 54,
+                "y": 54
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.75
+            }
+        },
+        {
+            "filename": "cat_walk_up_0",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 72,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.75
+            }
+        },
+        {
+            "filename": "cat_walk_up_1",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 72,
+                "y": 18
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.75
+            }
+        },
+        {
+            "filename": "cat_walk_up_2",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 72,
+                "y": 36
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.75
+            }
+        },
+        {
+            "filename": "cat_walk_up_3",
+            "frame": {
+                "w": 18,
+                "h": 18,
+                "x": 72,
+                "y": 54
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.75
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

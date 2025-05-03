@@ -1,0 +1,196 @@
+{
+    "anims": [
+        {
+            "key": "run_left",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "man_running",
+                    "frame": "run_(29)"
+                },
+                {
+                    "key": "man_running",
+                    "frame": "run_(30)"
+                },
+                {
+                    "key": "man_running",
+                    "frame": "run_(31)"
+                },
+                {
+                    "key": "man_running",
+                    "frame": "run_(32)"
+                }
+            ]
+        },
+        {
+            "key": "run_left_up",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "man_running",
+                    "frame": "run_(24)"
+                },
+                {
+                    "key": "man_running",
+                    "frame": "run_(25)"
+                },
+                {
+                    "key": "man_running",
+                    "frame": "run_(26)"
+                },
+                {
+                    "key": "man_running",
+                    "frame": "run_(27)"
+                }
+            ]
+        },
+        {
+            "key": "run_up",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "man_running",
+                    "frame": "run_(20)"
+                },
+                {
+                    "key": "man_running",
+                    "frame": "run_(21)"
+                },
+                {
+                    "key": "man_running",
+                    "frame": "run_(22)"
+                },
+                {
+                    "key": "man_running",
+                    "frame": "run_(23)"
+                }
+            ]
+        },
+        {
+            "key": "run_right_up",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "man_running",
+                    "frame": "run_(17)"
+                },
+                {
+                    "key": "man_running",
+                    "frame": "run_(18)"
+                },
+                {
+                    "key": "man_running",
+                    "frame": "run_(19)"
+                },
+                {
+                    "key": "man_running",
+                    "frame": "run_(20)"
+                }
+            ]
+        },
+        {
+            "key": "run_right",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "man_running",
+                    "frame": "run_(13)"
+                },
+                {
+                    "key": "man_running",
+                    "frame": "run_(14)"
+                },
+                {
+                    "key": "man_running",
+                    "frame": "run_(15)"
+                },
+                {
+                    "key": "man_running",
+                    "frame": "run_(16)"
+                }
+            ]
+        },
+        {
+            "key": "run_right_down",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "man_running",
+                    "frame": "run_(9)"
+                },
+                {
+                    "key": "man_running",
+                    "frame": "run_(10)"
+                },
+                {
+                    "key": "man_running",
+                    "frame": "run_(11)"
+                },
+                {
+                    "key": "man_running",
+                    "frame": "run_(12)"
+                }
+            ]
+        },
+        {
+            "key": "run_down",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "man_running",
+                    "frame": "run_(5)"
+                },
+                {
+                    "key": "man_running",
+                    "frame": "run_(6)"
+                },
+                {
+                    "key": "man_running",
+                    "frame": "run_(7)"
+                },
+                {
+                    "key": "man_running",
+                    "frame": "run_(8)"
+                }
+            ]
+        },
+        {
+            "key": "run_left_down",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "man_running",
+                    "frame": "run_(1)"
+                },
+                {
+                    "key": "man_running",
+                    "frame": "run_(2)"
+                },
+                {
+                    "key": "man_running",
+                    "frame": "run_(3)"
+                },
+                {
+                    "key": "man_running",
+                    "frame": "run_(4)"
+                }
+            ]
+        }
+    ]
+}
