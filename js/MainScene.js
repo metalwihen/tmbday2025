@@ -136,7 +136,7 @@ export default class MainScene extends Phaser.Scene {
 
     // console.log("Is rock blocking? " + isRockBlockingLeftPath + " or " + isRockBlockingRightPath);
     if (isRockBlockingLeftPath || isRockBlockingRightPath) {
-      this.player_cat.move(location_right_top_corner_fruit_garden);
+      this.player_cat.move(this, location_right_top_corner_fruit_garden);
       return;
     }
 
