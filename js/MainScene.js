@@ -160,7 +160,7 @@ export default class MainScene extends Phaser.Scene {
 
   stage_beginning() {
     this.speechQueue.enqueue("The cat is out of the house! Help me catch it!")
-    this.speechQueue.enqueue("Oh, and tap ASDF to move me!");
+    this.speechQueue.enqueue("Oh, and tap W/A/S/D to move me!");
   }
 
   stage_ending() {
